@@ -1,0 +1,8 @@
+/Users/ubp/Projects/Xamarin/Libraries/XF.Capisoft.Internationalization/XF.Capisoft.Internationalization/bin/Release/netstandard2.0/XF.Capisoft.Internationalization.nuspec
+/Users/ubp/Projects/Xamarin/Libraries/XF.Capisoft.Internationalization/XF.Capisoft.Internationalization/bin/Release/netstandard2.0/XF.Capisoft.Internationalization.deps.json
+/Users/ubp/Projects/Xamarin/Libraries/XF.Capisoft.Internationalization/XF.Capisoft.Internationalization/bin/Release/netstandard2.0/XF.Capisoft.Internationalization.dll
+/Users/ubp/Projects/Xamarin/Libraries/XF.Capisoft.Internationalization/XF.Capisoft.Internationalization/obj/Release/netstandard2.0/XF.Capisoft.Internationalization.csproj.CoreCompileInputs.cache
+/Users/ubp/Projects/Xamarin/Libraries/XF.Capisoft.Internationalization/XF.Capisoft.Internationalization/obj/Release/netstandard2.0/XF.Capisoft.Internationalization.AssemblyInfoInputs.cache
+/Users/ubp/Projects/Xamarin/Libraries/XF.Capisoft.Internationalization/XF.Capisoft.Internationalization/obj/Release/netstandard2.0/XF.Capisoft.Internationalization.AssemblyInfo.cs
+/Users/ubp/Projects/Xamarin/Libraries/XF.Capisoft.Internationalization/XF.Capisoft.Internationalization/obj/Release/netstandard2.0/XamlC.stamp
+/Users/ubp/Projects/Xamarin/Libraries/XF.Capisoft.Internationalization/XF.Capisoft.Internationalization/obj/Release/netstandard2.0/XF.Capisoft.Internationalization.dll
